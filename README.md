@@ -2,6 +2,12 @@
 
 Typescript definitions for Alexa Smart Home.
 
+## Getting started
+
+```
+$ yarn add alexa-smarthome-ts
+```
+
 ## Why
 
 Alexa SmartHome data model is quite complex. It is easy to forget mandatory properties or to return an unexpected state. Types can help us to save time. 

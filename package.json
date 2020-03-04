@@ -1,6 +1,7 @@
 {
   "name": "alexa-smarthome-ts",
   "description": "Typescript Type Definitions for Alexa SmartHome",
+  "keywords": ["alexa", "types", "voice-assistant"],
   "repository": {
     "type" : "git",
     "url": "https://github.com/AscentSoftware/alexa-smarthome-ts"
